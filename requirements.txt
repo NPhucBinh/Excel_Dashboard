@@ -3,4 +3,4 @@ pandas
 openpyxl
 xlwings
 RStockvn
-requests
+setuptools
